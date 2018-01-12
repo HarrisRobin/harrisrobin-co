@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/harrisrobin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://harrisrobin.co
+  * I am harrisrobin (https://keybase.io/harrisrobin) on keybase.
+  * I have a public key ASB_knSkOBbkahH7-sparCuolTqKTa2kIk59b6Upo4Xj_Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207f9274a43816e46a11fbfaca5aac2ba8953a8a4dada4224e7d6fa529a385e3fc0a",
+      "host": "keybase.io",
+      "kid": "01207f9274a43816e46a11fbfaca5aac2ba8953a8a4dada4224e7d6fa529a385e3fc0a",
+      "uid": "c14147836ab71ac5e4d84931d0341d19",
+      "username": "harrisrobin"
+    },
+    "merkle_root": {
+      "ctime": 1515735247,
+      "hash": "41bcfd671581b5e31ac402b95a8abf86669baf4eda0d5ffeeb3b848ceac4f7bd76fddaaa7865096606e10b8d1b3d853f73348bc92f0d830585ae16f8af40786f",
+      "hash_meta": "41639cd826016dba040a05ebce32920aedf19d6063432c02d3de9e1d9f4ec4c4",
+      "seqno": 1918249
+    },
+    "service": {
+      "hostname": "harrisrobin.co",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515735282,
+  "expire_in": 504576000,
+  "prev": "4fde60a68588ae61e652d2700f4f09575b94bcc0938e71bf84981c744d4ee62f",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf5J0pDgW5GoR+/rKWqwrqJU6ik2tpCJOfW+lKaOF4/wKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2Y5Mjc0YTQzODE2ZTQ2YTExZmJmYWNhNWFhYzJiYTg5NTNhOGE0ZGFkYTQyMjRlN2Q2ZmE1MjlhMzg1ZTNmYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2Y5Mjc0YTQzODE2ZTQ2YTExZmJmYWNhNWFhYzJiYTg5NTNhOGE0ZGFkYTQyMjRlN2Q2ZmE1MjlhMzg1ZTNmYzBhIiwidWlkIjoiYzE0MTQ3ODM2YWI3MWFjNWU0ZDg0OTMxZDAzNDFkMTkiLCJ1c2VybmFtZSI6ImhhcnJpc3JvYmluIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE1NzM1MjQ3LCJoYXNoIjoiNDFiY2ZkNjcxNTgxYjVlMzFhYzQwMmI5NWE4YWJmODY2NjliYWY0ZWRhMGQ1ZmZlZWIzYjg0OGNlYWM0ZjdiZDc2ZmRkYWFhNzg2NTA5NjYwNmUxMGI4ZDFiM2Q4NTNmNzMzNDhiYzkyZjBkODMwNTg1YWUxNmY4YWY0MDc4NmYiLCJoYXNoX21ldGEiOiI0MTYzOWNkODI2MDE2ZGJhMDQwYTA1ZWJjZTMyOTIwYWVkZjE5ZDYwNjM0MzJjMDJkM2RlOWUxZDlmNGVjNGM0Iiwic2Vxbm8iOjE5MTgyNDl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaGFycmlzcm9iaW4uY28iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE1NzM1MjgyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjRmZGU2MGE2ODU4OGFlNjFlNjUyZDI3MDBmNGYwOTU3NWI5NGJjYzA5MzhlNzFiZjg0OTgxYzc0NGQ0ZWU2MmYiLCJzZXFubyI6MTEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAm/krFWBYOM/yU/DEJZd9sfsxWr7Xv0r9Jr+jwB6OGmmw/dmLu0llwWT+WHtc5RwRjUV/5jojuunHM7eLkR+7B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBVmIWVqb3COhABIHPZNY6Y76coh831ltLLWDVxgg06/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harrisrobin
+
+==================================================================

@@ -1,0 +1,56 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Circular', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif;
+  color: #24221f;
+  line-height: 1.3;
+  background-color: RGBA(247, 248, 250, 1);
+  overflow-x: hidden;
+}
+
+html,
+body {
+  -webkit-tap-highlight-color: transparent;
+}
+
+img {
+  max-width: 100%;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+}
+
+
+@font-face {
+  font-family: 'Circular';
+  src: url('/fonts/CircularStd-Bold.eot');
+  src: url('/fonts/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/CircularStd-Bold.woff') format('woff'),
+    url('/fonts/CircularStd-Bold.ttf')  format('truetype'),
+    url('/fonts/CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Circular';
+  src: url('/fonts/CircularStd-Black.eot');
+  src: url('/fonts/CircularStd-Black.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/CircularStd-Black.woff') format('woff'),
+    url('/fonts/CircularStd-Black.ttf')  format('truetype'),
+    url('/fonts/CircularStd-Black.svg#CircularStd-Black') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
