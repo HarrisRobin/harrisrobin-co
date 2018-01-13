@@ -37,17 +37,17 @@ class App extends Component {
             fontSize={[0, 1]}
             color="#bddfff"
             fontWeight="900"
-            mt={[2]}
+            mt={[2, 3]}
             letterSpacing={3}
           >
             CLIENTS
           </Text>
 
           <Section style={{ display: "block" }} flex={1} mt={[2]} wrap="wrap">
-            <Logo height={["20px", "20px", "30px"]} mr={[2, 2, 3]} mb={[2]} src="images/logos/Real@3x.png" alt="real ventures logo" />
-            <Logo height={["20px", "20px", "30px"]} mr={[2, 2, 3]} mb={[2]} src="images/logos/Crew@3x.png" alt="crew logo" />
-            <Logo height={["20px", "20px", "30px"]} mr={[2, 2, 3]} mb={[2]} src="images/logos/mylo@3x.png" alt="mylo logo" />
-            <Logo height={["20px", "20px", "30px"]} mr={[2, 2, 3]} mb={[2]} src="images/logos/dialogue@3x.png" alt="mylo logo" />
+            <Logo height={["20px", "20px", "30px"]} mr={[2, 3, 3]} mb={[2]} src="images/logos/Real@3x.png" alt="real ventures logo" />
+            <Logo height={["20px", "20px", "30px"]} mr={[2, 3, 3]} mb={[2]} src="images/logos/Crew@3x.png" alt="crew logo" />
+            <Logo height={["23px", "23px", "33px"]} mr={[2, 3, 3]} mb={[2]} src="images/logos/mylo@3x.png" alt="mylo logo" />
+            <Logo height={["25px", "25px", "35px"]} mr={[2, 3, 3]} mb={[2]} src="images/logos/dialogue@3x.png" alt="dialogue logo" />
           </Section>
         </Section>
       </Section>
